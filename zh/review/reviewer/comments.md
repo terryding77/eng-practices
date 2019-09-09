@@ -1,6 +1,6 @@
 # How to write code review comments
 
-> 翻译者：terryding77
+> 翻译者：terryding77 [原文](../../../review/reviewer/comments.md)
 
 
 ## Summary

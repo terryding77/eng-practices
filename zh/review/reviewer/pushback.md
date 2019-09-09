@@ -1,6 +1,6 @@
 # Handling pushback in code reviews
 
-> 翻译者：terryding77
+> 翻译者：terryding77 [原文](../../../review/reviewer/pushback.md)
 
 
 Sometimes a developer will push back on a code review. Either they will disagree

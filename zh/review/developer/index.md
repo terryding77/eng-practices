@@ -1,6 +1,6 @@
 # The CL author's guide to getting through code review
 
-> 翻译者：terryding77
+> 翻译者：terryding77 [原文](../../../review/developer/index.md)
 
 The pages in this section contain best practices for developers going through
 code review. These guidelines should help you get through reviews faster and

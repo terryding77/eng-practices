@@ -1,6 +1,6 @@
 # Code Review Developer Guide
 
-> 翻译者：terryding77
+> 翻译者：terryding77 [原文](../../review/index.md)
 
 ## Introduction {#intro}
 

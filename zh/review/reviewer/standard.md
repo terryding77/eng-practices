@@ -1,6 +1,6 @@
 # The Standard of Code Review
 
-> 翻译者：terryding77
+> 翻译者：terryding77 [原文](../../../review/reviewer/standard.md)
 
 
 The primary purpose of code review is to make sure that the overall

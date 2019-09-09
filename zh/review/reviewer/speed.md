@@ -1,6 +1,6 @@
 # Speed of Code Reviews
 
-> 翻译者：terryding77
+> 翻译者：terryding77 [原文](../../../review/reviewer/speed.md)
 
 
 ## Why Should Code Reviews Be Fast? {#why}

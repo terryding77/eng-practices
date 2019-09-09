@@ -1,6 +1,6 @@
 # How to handle reviewer comments
 
-> 翻译者：terryding77
+> 翻译者：terryding77 [原文](../../../review/developer/handling-comments.md)
 
 When you've sent a CL out for review, it's likely that your reviewer will
 respond with several comments on your CL. Here are some useful things to know

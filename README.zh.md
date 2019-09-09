@@ -4,7 +4,7 @@ permalink: /
 
 # Google Engineering Practices Documentation
 
-> 翻译者：terryding77
+> 翻译者：terryding77 [原文](README.md)
 
 Google has many generalized engineering practices that cover all languages and
 all projects. These documents represent our collective experience of various
@@ -14,10 +14,10 @@ make it available publicly when possible.
 
 Currently this contains the following documents:
 
-- [Google's Code Review Guidelines](review/index.md), which are actually two
+- [Google's Code Review Guidelines](zh/review/index.md), which are actually two
   separate sets of documents:
-  - [The Code Reviewer's Guide](review/reviewer/index.md)
-  - [The Change Author's Guide](review/developer/index.md)
+  - [The Code Reviewer's Guide](zh/review/reviewer/index.md)
+  - [The Change Author's Guide](zh/review/developer/index.md)
 
 ## Terminology
 

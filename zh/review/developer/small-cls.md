@@ -1,6 +1,6 @@
 # Small CLs
 
-> 翻译者：terryding77
+> 翻译者：terryding77 [原文](../../../review/developer/small-cls.md)
 
 
 ## Why Write Small CLs? {#why}

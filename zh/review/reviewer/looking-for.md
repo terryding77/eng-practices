@@ -1,6 +1,6 @@
 # What to look for in a code review
 
-> 翻译者：terryding77
+> 翻译者：terryding77 [原文](../../../review/reviewer/looking-for.md)
 
 
 Note: Always make sure to take into account

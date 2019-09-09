@@ -1,6 +1,6 @@
 # How to do a code review
 
-> 翻译者：terryding77
+> 翻译者：terryding77 [原文](../../../review/reviewer/index.md)
 
 The pages in this section contain recommendations on the best way to do code
 reviews, based on long experience. All together they represent one complete

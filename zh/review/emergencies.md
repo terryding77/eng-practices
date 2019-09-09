@@ -1,11 +1,12 @@
 # Emergencies
 
+> 翻译者：terryding77 [原文](../../review/emergencies.md)
+
 Sometimes there are emergency CLs that must pass through the entire code review
 process as quickly as
 possible.
 
 
-> 翻译者：terryding77
 
 
 ## What Is An Emergency? {#what}
